@@ -1,0 +1,738 @@
+{
+	"knownSymbols": {
+		"mongoose": [
+			{
+				"name": "mongoose",
+				"module": "mongoose",
+				"isDefault": true
+			}
+		],
+		"Home": [
+			{
+				"name": "Home",
+				"path": "/home/mario/dev/ecommerce/ecommerce-sena./pages/index.tsx",
+				"type": "function",
+				"isDefault": true
+			}
+		],
+		"Card": [
+			{
+				"name": "Card",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"CardActionArea": [
+			{
+				"name": "CardActionArea",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"CardMedia": [
+			{
+				"name": "CardMedia",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"Grid": [
+			{
+				"name": "Grid",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"Typography": [
+			{
+				"name": "Typography",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"App": [
+			{
+				"name": "App",
+				"path": "/home/mario/dev/ecommerce/ecommerce-sena./pages/_app.tsx",
+				"type": "function",
+				"isDefault": true
+			}
+		],
+		"type { AppProps": [
+			{
+				"name": "type { AppProps",
+				"module": "next/app",
+				"isDefault": true
+			}
+		],
+		"CssBaseline": [
+			{
+				"name": "CssBaseline",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"ThemeProvider": [
+			{
+				"name": "ThemeProvider",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"ProductPage": [
+			{
+				"name": "ProductPage",
+				"path": "/home/mario/dev/ecommerce/ecommerce-sena./pages/product/slug.tsx",
+				"isDefault": true
+			}
+		],
+		"Box": [
+			{
+				"name": "Box",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"Button": [
+			{
+				"name": "Button",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"Chip": [
+			{
+				"name": "Chip",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"MyDocument": [
+			{
+				"name": "MyDocument",
+				"path": "/home/mario/dev/ecommerce/ecommerce-sena./pages/_document.tsx",
+				"isDefault": true
+			}
+		],
+		"Document": [
+			{
+				"name": "Document",
+				"module": "next/document",
+				"isDefault": true
+			}
+		],
+		"{ DocumentContext": [
+			{
+				"name": "{ DocumentContext",
+				"module": "next/document",
+				"isDefault": true
+			}
+		],
+		"Html": [
+			{
+				"name": "Html",
+				"module": "next/document",
+				"isDefault": true
+			}
+		],
+		"Head": [
+			{
+				"name": "Head",
+				"module": "next/head",
+				"isDefault": true
+			},
+			{
+				"name": "Head",
+				"module": "next/document",
+				"isDefault": true
+			}
+		],
+		"Main": [
+			{
+				"name": "Main",
+				"module": "next/document",
+				"isDefault": true
+			}
+		],
+		"NextScript": [
+			{
+				"name": "NextScript",
+				"module": "next/document",
+				"isDefault": true
+			}
+		],
+		"FC": [
+			{
+				"name": "FC",
+				"module": "react",
+				"isDefault": false
+			}
+		],
+		"Link": [
+			{
+				"name": "Link",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"useMemo": [
+			{
+				"name": "useMemo",
+				"module": "react",
+				"isDefault": false
+			}
+		],
+		"useState": [
+			{
+				"name": "useState",
+				"module": "react",
+				"isDefault": false
+			}
+		],
+		"NextLink": [
+			{
+				"name": "NextLink",
+				"module": "next/link",
+				"isDefault": true
+			}
+		],
+		"Slide": [
+			{
+				"name": "Slide",
+				"module": "react-slideshow-image",
+				"isDefault": false
+			}
+		],
+		"React": [
+			{
+				"name": "React",
+				"module": "react",
+				"isDefault": true
+			}
+		],
+		"{ FC": [
+			{
+				"name": "{ FC",
+				"module": "react",
+				"isDefault": true
+			}
+		],
+		"AddCircleOutline": [
+			{
+				"name": "AddCircleOutline",
+				"module": "@mui/icons-material",
+				"isDefault": false
+			}
+		],
+		"RemoveCircleOutline": [
+			{
+				"name": "RemoveCircleOutline",
+				"module": "@mui/icons-material",
+				"isDefault": false
+			}
+		],
+		"IconButton": [
+			{
+				"name": "IconButton",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"Divider": [
+			{
+				"name": "Divider",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"Drawer": [
+			{
+				"name": "Drawer",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"Input": [
+			{
+				"name": "Input",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"InputAdornment": [
+			{
+				"name": "InputAdornment",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"List": [
+			{
+				"name": "List",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"ListItem": [
+			{
+				"name": "ListItem",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"ListItemIcon": [
+			{
+				"name": "ListItemIcon",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"ListItemText": [
+			{
+				"name": "ListItemText",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"ListSubheader": [
+			{
+				"name": "ListSubheader",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"AccountCircleOutlined": [
+			{
+				"name": "AccountCircleOutlined",
+				"module": "@mui/icons-material",
+				"isDefault": false
+			}
+		],
+		"AdminPanelSettings": [
+			{
+				"name": "AdminPanelSettings",
+				"module": "@mui/icons-material",
+				"isDefault": false
+			}
+		],
+		"CategoryOutlined": [
+			{
+				"name": "CategoryOutlined",
+				"module": "@mui/icons-material",
+				"isDefault": false
+			}
+		],
+		"ConfirmationNumberOutlined": [
+			{
+				"name": "ConfirmationNumberOutlined",
+				"module": "@mui/icons-material",
+				"isDefault": false
+			}
+		],
+		"FemaleOutlined": [
+			{
+				"name": "FemaleOutlined",
+				"module": "@mui/icons-material",
+				"isDefault": false
+			}
+		],
+		"LoginOutlined": [
+			{
+				"name": "LoginOutlined",
+				"module": "@mui/icons-material",
+				"isDefault": false
+			}
+		],
+		"MaleOutlined": [
+			{
+				"name": "MaleOutlined",
+				"module": "@mui/icons-material",
+				"isDefault": false
+			}
+		],
+		"SearchOutlined": [
+			{
+				"name": "SearchOutlined",
+				"module": "@mui/icons-material",
+				"isDefault": false
+			}
+		],
+		"VpnKeyOutlined": [
+			{
+				"name": "VpnKeyOutlined",
+				"module": "@mui/icons-material",
+				"isDefault": false
+			}
+		],
+		"WcOutlined": [
+			{
+				"name": "WcOutlined",
+				"module": "@mui/icons-material",
+				"isDefault": false
+			}
+		],
+		"AppBar": [
+			{
+				"name": "AppBar",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"Badge": [
+			{
+				"name": "Badge",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"Toolbar": [
+			{
+				"name": "Toolbar",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"ShoppingCartOutlined": [
+			{
+				"name": "ShoppingCartOutlined",
+				"module": "@mui/icons-material",
+				"isDefault": false
+			}
+		],
+		"lightTheme": [
+			{
+				"name": "lightTheme",
+				"path": "/home/mario/dev/ecommerce/ecommerce-sena./themes/light-theme.ts",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"createTheme": [
+			{
+				"name": "createTheme",
+				"module": "@mui/material/styles",
+				"isDefault": false
+			}
+		],
+		"red": [
+			{
+				"name": "red",
+				"module": "@mui/material/colors",
+				"isDefault": false
+			}
+		],
+		"ProductList": [
+			{
+				"name": "ProductList",
+				"path": "/home/mario/dev/ecommerce/ecommerce-sena./components/products/ProductList.tsx",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"ProductCard": [
+			{
+				"name": "ProductCard",
+				"path": "/home/mario/dev/ecommerce/ecommerce-sena./components/products/ProductCard.tsx",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"SizeSelector": [
+			{
+				"name": "SizeSelector",
+				"path": "/home/mario/dev/ecommerce/ecommerce-sena./components/products/SizeSelector.tsx",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"ProductSlidesShow": [
+			{
+				"name": "ProductSlidesShow",
+				"path": "/home/mario/dev/ecommerce/ecommerce-sena./components/products/ProductSlidesShow.tsx",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"OrderSummary": [
+			{
+				"name": "OrderSummary",
+				"path": "/home/mario/dev/ecommerce/ecommerce-sena./components/cart/OrderSummary.tsx",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"CartList": [
+			{
+				"name": "CartList",
+				"path": "/home/mario/dev/ecommerce/ecommerce-sena./components/cart/CartList.tsx",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"ShopLayout": [
+			{
+				"name": "ShopLayout",
+				"path": "/home/mario/dev/ecommerce/ecommerce-sena./components/layouts/ShopLayout.tsx",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"AuthLayout": [
+			{
+				"name": "AuthLayout",
+				"path": "/home/mario/dev/ecommerce/ecommerce-sena./components/layouts/AuthLayout.tsx",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"ItemCounter": [
+			{
+				"name": "ItemCounter",
+				"path": "/home/mario/dev/ecommerce/ecommerce-sena./components/ui/ItemCounter.tsx",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"SideMenu": [
+			{
+				"name": "SideMenu",
+				"path": "/home/mario/dev/ecommerce/ecommerce-sena./components/ui/SideMenu.tsx",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"Navbar": [
+			{
+				"name": "Navbar",
+				"path": "/home/mario/dev/ecommerce/ecommerce-sena./components/ui/Navbar.tsx",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"SHOP_CONSTANTS": [
+			{
+				"name": "SHOP_CONSTANTS",
+				"path": "/home/mario/dev/ecommerce/ecommerce-sena./database/constants.ts",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"connect": [
+			{
+				"name": "connect",
+				"path": "/home/mario/dev/ecommerce/ecommerce-sena./database/db.ts",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"disconnect": [
+			{
+				"name": "disconnect",
+				"path": "/home/mario/dev/ecommerce/ecommerce-sena./database/db.ts",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"initialData": [
+			{
+				"name": "initialData",
+				"path": "/home/mario/dev/ecommerce/ecommerce-sena./database/products.ts",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"IProduct": [
+			{
+				"name": "IProduct",
+				"path": "/home/mario/dev/ecommerce/ecommerce-sena./interfaces/products.ts",
+				"type": "interface",
+				"isDefault": false
+			}
+		],
+		"ISize": [
+			{
+				"name": "ISize",
+				"path": "/home/mario/dev/ecommerce/ecommerce-sena./interfaces/products.ts",
+				"type": "type",
+				"isDefault": false
+			}
+		],
+		"IType": [
+			{
+				"name": "IType",
+				"path": "/home/mario/dev/ecommerce/ecommerce-sena./interfaces/products.ts",
+				"type": "type",
+				"isDefault": false
+			}
+		],
+		"Product": [
+			{
+				"name": "Product",
+				"path": "/home/mario/dev/ecommerce/ecommerce-sena./models/Product.ts",
+				"isDefault": true
+			}
+		],
+		"{ Schema": [
+			{
+				"name": "{ Schema",
+				"module": "mongoose",
+				"isDefault": true
+			}
+		],
+		"model": [
+			{
+				"name": "model",
+				"module": "mongoose",
+				"isDefault": true
+			}
+		],
+		"Model": [
+			{
+				"name": "Model",
+				"module": "mongoose",
+				"isDefault": true
+			}
+		],
+		"function": [
+			{
+				"name": "function",
+				"path": "/home/mario/dev/ecommerce/ecommerce-sena./pages/api/products/index.ts",
+				"isDefault": true
+			}
+		],
+		"type { NextApiRequest": [
+			{
+				"name": "type { NextApiRequest",
+				"module": "next",
+				"isDefault": true
+			}
+		],
+		"NextApiResponse": [
+			{
+				"name": "NextApiResponse",
+				"module": "next",
+				"isDefault": true
+			}
+		],
+		"RegisterPage": [
+			{
+				"name": "RegisterPage",
+				"path": "/home/mario/dev/ecommerce/ecommerce-sena./pages/auth/register.tsx",
+				"isDefault": true
+			}
+		],
+		"TextField": [
+			{
+				"name": "TextField",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"LoginPage": [
+			{
+				"name": "LoginPage",
+				"path": "/home/mario/dev/ecommerce/ecommerce-sena./pages/auth/login.tsx",
+				"isDefault": true
+			}
+		],
+		"CartPage": [
+			{
+				"name": "CartPage",
+				"path": "/home/mario/dev/ecommerce/ecommerce-sena./pages/cart/index.tsx",
+				"isDefault": true
+			}
+		],
+		"CardContent": [
+			{
+				"name": "CardContent",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"EmptyPage": [
+			{
+				"name": "EmptyPage",
+				"path": "/home/mario/dev/ecommerce/ecommerce-sena./pages/cart/empty.tsx",
+				"isDefault": true
+			}
+		],
+		"RemoveShoppingCartOutlined": [
+			{
+				"name": "RemoveShoppingCartOutlined",
+				"module": "@mui/icons-material",
+				"isDefault": false
+			}
+		],
+		"AddressPage": [
+			{
+				"name": "AddressPage",
+				"path": "/home/mario/dev/ecommerce/ecommerce-sena./pages/checkout/address.tsx",
+				"isDefault": true
+			}
+		],
+		"FormControl": [
+			{
+				"name": "FormControl",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"MenuItem": [
+			{
+				"name": "MenuItem",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"Select": [
+			{
+				"name": "Select",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"SummaryPage": [
+			{
+				"name": "SummaryPage",
+				"path": "/home/mario/dev/ecommerce/ecommerce-sena./pages/checkout/summary.tsx",
+				"isDefault": true
+			}
+		],
+		"OrdenPage": [
+			{
+				"name": "OrdenPage",
+				"path": "/home/mario/dev/ecommerce/ecommerce-sena./pages/orders/[id].tsx",
+				"isDefault": true
+			}
+		],
+		"CreditScoreOutlined": [
+			{
+				"name": "CreditScoreOutlined",
+				"module": "@mui/icons-material",
+				"isDefault": false
+			}
+		],
+		"Custom404": [
+			{
+				"name": "Custom404",
+				"path": "/home/mario/dev/ecommerce/ecommerce-sena./pages/404.tsx",
+				"isDefault": true
+			}
+		],
+		"handler": [
+			{
+				"name": "handler",
+				"path": "/home/mario/dev/ecommerce/ecommerce-sena./pages/api/search/hello.ts",
+				"type": "function",
+				"isDefault": true
+			}
+		],
+		"async": [
+			{
+				"name": "async",
+				"path": "/home/mario/dev/ecommerce/ecommerce-sena./pages/api/search/seed.ts",
+				"isDefault": true
+			}
+		]
+	}
+}
